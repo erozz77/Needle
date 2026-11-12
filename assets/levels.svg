@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="title desc">
+<title id="title">Уровни Needle</title>
+<desc id="desc">Три учебных уровня: Rookie, Hunter и Ghost.</desc>
+<rect width="1200" height="340" rx="20" fill="#0b1020"/>
+<g font-family="Arial,sans-serif">
+  <g>
+    <rect x="25" y="20" width="365" height="300" rx="18" fill="#111b2e" stroke="#54e4d4" stroke-width="2"/>
+    <text x="55" y="65" fill="#54e4d4" font-family="monospace" font-size="16" letter-spacing="3">LEVEL 01</text>
+    <text x="55" y="118" fill="#f3f6ff" font-family="monospace" font-size="42" font-weight="bold">ROOKIE</text>
+    <text x="55" y="151" fill="#a9b8d0" font-size="17">Основы OSINT</text>
+    <path d="M55 170H360" stroke="#54e4d4" opacity=".4"/>
+    <g fill="#dce5f3" font-size="19">
+      <text x="55" y="211">› Метаданные изображений</text>
+      <text x="55" y="245">› Обратный поиск картинок</text>
+      <text x="55" y="279">› Первые цифровые следы</text>
+    </g>
+    <rect x="286" y="282" width="75" height="27" rx="13" fill="#54e4d4"/>
+    <text x="323" y="301" text-anchor="middle" fill="#08131b" font-family="monospace" font-size="13" font-weight="bold">FREE</text>
+  </g>
+  <g>
+    <rect x="418" y="20" width="365" height="300" rx="18" fill="#111b2e" stroke="#8b7cff" stroke-width="2"/>
+    <text x="448" y="65" fill="#a99dff" font-family="monospace" font-size="16" letter-spacing="3">LEVEL 02</text>
+    <text x="448" y="118" fill="#f3f6ff" font-family="monospace" font-size="42" font-weight="bold">HUNTER</text>
+    <text x="448" y="151" fill="#a9b8d0" font-size="17">Геолокация по фото</text>
+    <path d="M448 170H753" stroke="#8b7cff" opacity=".4"/>
+    <g fill="#dce5f3" font-size="19">
+      <text x="448" y="211">› Вывески и ориентиры</text>
+      <text x="448" y="245">› Архитектура и тени</text>
+      <text x="448" y="279">› Карты и сопоставление</text>
+    </g>
+    <rect x="680" y="282" width="75" height="27" rx="13" fill="#8b7cff"/>
+    <text x="717" y="301" text-anchor="middle" fill="#100d22" font-family="monospace" font-size="13" font-weight="bold">PRO</text>
+  </g>
+  <g>
+    <rect x="810" y="20" width="365" height="300" rx="18" fill="#111b2e" stroke="#ffad66" stroke-width="2"/>
+    <text x="840" y="65" fill="#ffad66" font-family="monospace" font-size="16" letter-spacing="3">LEVEL 03</text>
+    <text x="840" y="118" fill="#f3f6ff" font-family="monospace" font-size="42" font-weight="bold">GHOST</text>
+    <text x="840" y="151" fill="#a9b8d0" font-size="17">Многоэтапные кейсы</text>
+    <path d="M840 170H1145" stroke="#ffad66" opacity=".4"/>
+    <g fill="#dce5f3" font-size="19">
+      <text x="840" y="211">› Цифровой след персонажа</text>
+      <text x="840" y="245">› Связи между учебными данными</text>
+      <text x="840" y="279">› Защита приватности</text>
+    </g>
+    <rect x="1072" y="282" width="75" height="27" rx="13" fill="#ffad66"/>
+    <text x="1109" y="301" text-anchor="middle" fill="#241408" font-family="monospace" font-size="13" font-weight="bold">PRO</text>
+  </g>
+</g>
+</svg>
