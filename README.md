@@ -113,9 +113,9 @@ flowchart TD
 
 В публичном репозитории участники указаны по рабочим псевдонимам.
 
-| Роль | GitHub-псевдоним |
+| Роль | GitHub |
 |---|---|
-| Team Lead / Backend | `anonymous` |
+| Team Lead / Backend | `erozz77` |
 | Frontend | `cauua uuiqpp` |
 | Content | `4byb4k47` |
 | Security | `nikita backd00r` |
