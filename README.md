@@ -2,8 +2,6 @@
   <img src="docs/img/banner.png" alt="Needle" width="100%">
 </p>
 
-<h1 align="center">NEEDLE</h1>
-
 <p align="center">
   <b>Find the needle.</b>
   <br>
